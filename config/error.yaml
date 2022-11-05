@@ -1,0 +1,6 @@
+# general
+bad_request:
+  status: "400"
+  message_code: "g-000-1"
+  th: "เกิดข้อผิดพลาด ขณะส่งข้อมูลไป"
+  en: "an error occurred while sending information."
